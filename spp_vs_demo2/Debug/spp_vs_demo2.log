@@ -1,0 +1,6 @@
+﻿  Calculate.cpp
+E:\cpp\spp_vs_demo2\spp_vs_demo2\src\DataFile.h(21,2): warning C4091: “typedef ”: 没有声明变量时忽略“tagDataHead”的左侧
+E:\cpp\spp_vs_demo2\spp_vs_demo2\src\DataFile.h(34,2): warning C4091: “typedef ”: 没有声明变量时忽略“tagSatData”的左侧
+E:\cpp\spp_vs_demo2\spp_vs_demo2\src\CalCulate.h(20,2): warning C4091: “typedef ”: 没有声明变量时忽略“SatResults”的左侧
+E:\cpp\spp_vs_demo2\spp_vs_demo2\src\Calculate.cpp(157,22): warning C4018: “<”: 有符号/无符号不匹配
+  spp_vs_demo2.vcxproj -> E:\cpp\spp_vs_demo2\Debug\spp_vs_demo2.exe
